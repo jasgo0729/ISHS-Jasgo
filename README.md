@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Stats
 [![Jasgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISHS-Jasgo)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <a href="https://opgc.me/#/users/ISHS-Jasgo" target="_blank"><img src="https://api.opgc.me/githubs/users/ISHS-Jasgo/tag/?theme=basic" /></a>
