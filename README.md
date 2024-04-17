@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br/>
 <img src="https://img.shields.io/badge/Java-컬러코드?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript?style=flat-square&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React.js-61dafb?style=flat-square&logo=React&logoColor=white"/></a>
