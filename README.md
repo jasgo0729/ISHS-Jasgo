@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISHS-Jasgo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jasgo})](https://solved.ac/{jasgo})
 <br>
 <img src="https://img.shields.io/badge/Java-컬러코드?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
