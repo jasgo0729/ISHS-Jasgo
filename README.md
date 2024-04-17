@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599c?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C#-512bd4?style=flat-square&logo=C#&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Mysql-4479a1?style=flat-square&logo=Mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mysql-4479a1?style=flat-square&logo=MySQL&logoColor=white"/></a>
