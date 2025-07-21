@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ISHS-Jasgo/ISHS-Jasgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jasgo0729/jasgo0729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My Stats
-[![Jasgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISHS-Jasgo)](https://github.com/anuraghazra/github-readme-stats)
+[![Jasgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasgo0729)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-<a href="https://opgc.me/#/users/ISHS-Jasgo" target="_blank"><img src="https://api.opgc.me/githubs/users/ISHS-Jasgo/tag/?theme=basic" /></a>
+<a href="https://opgc.me/#/users/jasgo0729" target="_blank"><img src="https://api.opgc.me/githubs/users/jasgo0729/tag/?theme=basic" /></a>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISHS-Jasgo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasgo0729&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jasgo)](https://solved.ac/jasgo)
