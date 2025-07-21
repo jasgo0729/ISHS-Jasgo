@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ## My Stats
 [![Jasgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasgo0729)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-<a href="https://opgc.me/#/users/jasgo0729" target="_blank"><img src="https://api.opgc.me/githubs/users/jasgo0729/tag/?theme=basic" /></a>
-<br/>
+<-- <a href="https://opgc.me/#/users/jasgo0729" target="_blank"><img src="https://api.opgc.me/githubs/users/jasgo0729/tag/?theme=basic" /></a>
+<br/> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasgo0729&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Solved.ac
